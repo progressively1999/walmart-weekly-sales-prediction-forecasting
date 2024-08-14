@@ -176,23 +176,24 @@ But what if you're looking to predict future trends? That's where time series an
 **Feature Selection:**
 ![image](https://github.com/user-attachments/assets/38db88f4-7997-4987-9fc5-e8f6ab02668f)
 
-**Linear Regression**
+
+Linear Regression
 ![image](https://github.com/user-attachments/assets/e863ce7e-0bfc-424b-bb0f-7bfa2ee4bbe5)
 
 
-**Decision Tree Regression**
+Decision Tree Regression
 ![image](https://github.com/user-attachments/assets/e07e6972-fd3c-4070-87f1-d767f93f6cfe)
 
 
-**Random Forest Regression**
+Random Forest Regression
 ![image](https://github.com/user-attachments/assets/15dda3fb-3629-4037-a9d8-58540678b4b5)
 
 
-**KNN Regression**
+KNN Regression
 ![image](https://github.com/user-attachments/assets/276f83ae-db76-4529-88dc-c34f2b9cf9b7)
 
 
-**XG Boost Regression**
+XG Boost Regression
 ![image](https://github.com/user-attachments/assets/2887b5fb-eff5-4aed-b43c-2e1b500a7af5)
 
 
